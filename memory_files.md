@@ -22,7 +22,6 @@ In the C Language, the required header for the memset function is:
 #include <string.h>
 
 
-
 # C Language: memcpy function
 (Copy Memory Block)
 In the C Programming Language, the memcpy function copies n characters from the object pointed to by s2 into the object pointed to by s1. It returns a pointer to the destination.
